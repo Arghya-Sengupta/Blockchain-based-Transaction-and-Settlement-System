@@ -5,7 +5,7 @@ from wallet import get_balance, load_wallets
 import json
 
 def show_menu():
-    print("\n===== MINI BLOCKCHAIN (MULTI-FILE) =====")
+    print("\n================= MENU =================")
     print("1) Create & Sign Transaction")
     print("2) Mine Block")
     print("3) View Blockchain (chain.json)")
@@ -98,3 +98,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
