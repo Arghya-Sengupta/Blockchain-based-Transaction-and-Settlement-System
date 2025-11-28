@@ -1,5 +1,4 @@
 # Blockchain-based-Transaction-and-Settlement-System
-Multi-file Blockchain project (educational prototype)
 
 Requirements:
  - Python 3.8+
